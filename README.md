@@ -1,6 +1,6 @@
 # 数据集
 1、多社交网络数据集 已上传东南大学云盘:  
-https://pan.seu.edu.cn/link/06F0451DC52FDE2DF0E4513E4BDD0806  
+https://pan.seu.edu.cn/link/6AAA1D0D2246BA8F864F7D0D5B7834F1  
 内容为未经处理的原始数据。时间跨度为2017-1-1至2018-1-1。  
   
 twitter.txt 字段分别为 用户id 帖文id 语言标签 帖文内容  
